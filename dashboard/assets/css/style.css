@@ -107,3 +107,9 @@ body {
 .fs-9{
     font-size: 0.6rem!important;
 }
+.card-teal{
+    --lte-card-variant-bg: #02a499;
+}
+.text-white{
+    color: white;
+}
